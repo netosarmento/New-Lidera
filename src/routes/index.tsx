@@ -464,7 +464,7 @@ function Index() {
 
         <div className="mt-10 text-center">
           <a
-            href="#"
+            href="https://lidera.alebortolanza.com.br/workshop-lidera"
             className="inline-flex items-center justify-center rounded-full bg-gradient-to-b from-gold-soft to-gold px-10 py-6 font-sans text-base font-bold uppercase tracking-wider text-primary-foreground transition-transform duration-300 hover:scale-[1.04] animate-pulse-glow md:text-lg"
           >
             Garantir Vaga
