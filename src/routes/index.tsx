@@ -165,7 +165,7 @@ function Index() {
 
           <Reveal delay={420}>
             <a
-              href="#cta-final"
+              href="https://lidera.alebortolanza.com.br/workshop-lidera"
               className="group mt-9 inline-flex items-center gap-2 rounded-full bg-gradient-to-b from-gold-soft to-gold px-10 py-5 font-sans text-base font-semibold uppercase tracking-wider text-primary-foreground transition-all duration-300 hover:scale-[1.03] gold-glow"
             >
               Garantir Minha Vaga
