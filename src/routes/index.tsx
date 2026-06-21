@@ -414,7 +414,7 @@ function Index() {
         <div className="mt-14 grid gap-6 md:grid-cols-2">
           <Reveal>
             <article className="flex h-full flex-col rounded-3xl border border-border bg-card/40 p-8 backdrop-blur">
-              <p className="font-serif text-2xl text-cream">Ingresso Comum</p>
+              <p className="font-serif text-2xl text-cream">Ingresso Imersão</p>
               <ul className="mt-5 space-y-3">
                 {[
                   "2 dias de imersão com foco total no Plano Estratégico Completo.",
